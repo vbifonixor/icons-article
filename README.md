@@ -3,7 +3,7 @@ tags:
 aliases: [12.01]
 title: Выгрузка иконок из Figma
 date created: Tuesday, May 24th 2022, 8:42:40 pm
-date modified: Monday, June 20th 2022, 10:30:05 pm
+date modified: Monday, June 20th 2022, 10:58:57 pm
 ---
 
 # Выгрузка иконок из Figma
@@ -15,6 +15,12 @@ date modified: Monday, June 20th 2022, 10:30:05 pm
 | https://github.com/vbifonixor/icon-extractor/ | https://www.figma.com/file/yYOcOaqdNOd40vLvc29Dws/Sample-Icon-Pack?node-id=0%3A1 |
 
 ---
+
+---
+
+> **TL; DR**
+> Эта статья описывает написание небольшого скрипта на Node.js для выгрузки векторных иконок из Figma в проект, и универсального компонента для разных видов иконок, который удобно использовать в своём приложении.
+> Ознакомиться с кодом небольшого тренировочного проекта можно в [этом репозитории](https://github.com/vbifonixor/icon-extractor/).
 
 # Введение
 
