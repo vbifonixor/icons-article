@@ -1,11 +1,3 @@
----
-tags:
-aliases: [12.01]
-title: Выгрузка иконок из Figma
-date created: Tuesday, May 24th 2022, 8:42:40 pm
-date modified: Tuesday, December 20th 2022, 00:23:06 am
----
-
 # Пошаговая инструкция: как с Node.js организовать иконки из Figma в проекте
 
 
